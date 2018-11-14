@@ -12,7 +12,7 @@
   <name>git_ems Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
-  <!--继承springboot 的父项目-->
+  <!--继承springboot 的父项目 hahahahha-->
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
