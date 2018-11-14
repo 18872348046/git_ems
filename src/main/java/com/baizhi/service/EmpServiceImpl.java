@@ -18,6 +18,7 @@ public class EmpServiceImpl implements EmpService {
     @Override
     public void add(Emp emp) {
         empDAO.save(emp);
+        System.out.println("sskdn");
     }
 
     @Override
